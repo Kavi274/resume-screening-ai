@@ -1,0 +1,9 @@
+pandas>=2.0
+scikit-learn>=1.3
+spacy>=3.7
+nltk>=3.8
+transformers>=4.35
+PyMuPDF
+python-docx
+streamlit
+jupyter
