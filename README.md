@@ -43,4 +43,4 @@ python -m streamlit run app.py
 
 ## Author
 
-Kaviya
+Kaviya S
